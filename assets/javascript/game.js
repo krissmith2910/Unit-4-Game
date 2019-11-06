@@ -88,6 +88,7 @@ $("#stone4").on("click", function() {
             }else if (score > computerGuess) {
                 checkifwon();
             }
+            
 });
 
     // create win and lost
